@@ -4,6 +4,8 @@
 
 It is open-source, and is customizable. [Github link](https://github.com/odoo/odoo)
 
+<a href="./odoo-apps-ss.png"><img src="./odoo-apps-ss.png" alt="Odoo" height="110px"></a>
+
 ## How to setup odoo on your local system?
 
 With these few easy steps, you can easily run you odoo instance using [docker](https://docs.docker.com/get-started/overview/).<br/>
