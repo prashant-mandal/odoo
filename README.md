@@ -2,7 +2,7 @@
 
 [Odoo](https://www.odoo.com) is a suite of business management software tools including, for example, CRM, e-commerce, billing, accounting, manufacturing, warehouse, project management, and inventory management.
 
-It is open souce, and is customizable. [Github link](https://github.com/odoo/odoo)
+It is open-source, and is customizable. [Github link](https://github.com/odoo/odoo)
 
 ## How to setup odoo on your local system?
 
@@ -12,13 +12,13 @@ Here, I will guide you to setup odoo version 16.0 . However you can install any 
 - Step 1
 
   - You need to [install docker](https://docs.docker.com/get-docker/) on your local machine.
-  - Once installed, got to the terminal and pull the image for v16.0
+  - Once installed, go to the terminal and pull the image for v16.0
 
   ```{r, engine='bash', count_lines}
   docker pull prashant7/odoo:odoo16
   ```
 
-  For other versions of odoo, you can pull the images from my [docker hub](https://hub.docker.com/r/prashant7/odoo)
+  For other versions of odoo, you can pull the images from my [docker hub](https://hub.docker.com/r/prashant7/odoo).
 
   - Now, that image is pulled. You need to run the container. For that,
     first create a new folder in your local machine and execute the following command. you can change the "/path/my_local_folder" with path of your folder.
